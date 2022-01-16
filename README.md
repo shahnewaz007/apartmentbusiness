@@ -14,3 +14,8 @@ To achieve our goal we will give some perfect features for Businessman and Custo
   3. Flat Rent System: Suppose a user has to rent a flat. But he has a tight budget. So he can search flats from the database with price, area and number of rooms. After renting a flat his information will be stored in the specific flat table. He can’t access all data from the main database. He can see which flats are for rent, how many rooms are in the flats, where is that building situated, what is the rent fee of that flat etc.
 
 
+
+![ERD 2](https://user-images.githubusercontent.com/39572828/149677905-53f7d219-c149-488f-b83b-429fde457899.jpg)
+
+<h2>Conclusion</h2>
+Our Application will help Apartment Business Company to manage whole things very easily. In professional sector, only a few persons in admin panel can operate the whole business. So, there is no need to hire a lot of people to store and manage data of each building. We hope we will make this application successfully for professional use. 
